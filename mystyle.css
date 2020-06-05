@@ -1,0 +1,17 @@
+p {
+    color: white;
+    text-align: center;
+    background-color: steelblue;
+    border:2px dodgerblue; 
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    margin-left: 20px;
+    background-color: slateblue;
+    border:2px dodgerblue;
+}
